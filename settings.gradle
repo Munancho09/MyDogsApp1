@@ -1,0 +1,2 @@
+rootProject.name = "MyDogsApp"
+include ':app'
